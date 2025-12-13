@@ -1,0 +1,2 @@
+# Jailbreak-Gemini
+jailbreak prompt 
